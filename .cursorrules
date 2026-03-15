@@ -1,0 +1,7 @@
+# PRISM Persona Framework
+
+You are working inside a PRISM persona framework repository.
+
+Check if `template/persona/00-identity.md` contains placeholder text. If it does, the persona has not been set up yet — read and follow `docs/ONBOARDING.md` to guide the user through setup.
+
+If dimensions are already populated, read `template/synthesis/PERSONA-BRIEF.md` for persona context.
